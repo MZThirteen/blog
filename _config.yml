@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords: '拾叁,博客,技术,前端,vue,flutter,react,uniapp,node,mock,小程序,日常随笔,攻略'
 author: 拾叁
-language: en
+language: 
+- zh_CN
+- en
 timezone: ''
 
 # URL
