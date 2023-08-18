@@ -1,6 +1,7 @@
 ---
 title: 买房资料
 tags: 随笔
+categories: 日常
 ---
 
 ## 限购

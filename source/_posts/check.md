@@ -1,6 +1,7 @@
 ---
 title: 托运
 tags: 随笔
+categories: 日常
 ---
 
 ## 托运

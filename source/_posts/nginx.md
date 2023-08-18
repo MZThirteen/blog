@@ -1,6 +1,7 @@
 ---
 title: nginx
 tags: nginx
+categories: nginx
 ---
 
 ## 命令

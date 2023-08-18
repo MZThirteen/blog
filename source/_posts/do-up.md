@@ -1,6 +1,7 @@
 ---
 title: 装修
 tags: 随笔
+categories: 日常
 ---
 
 ## 【一】装修前的准备工作

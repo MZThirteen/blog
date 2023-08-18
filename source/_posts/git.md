@@ -1,6 +1,7 @@
 ---
 title: git
 tags: git
+categories: 工具
 ---
 
 ## 分支
