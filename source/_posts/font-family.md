@@ -1,7 +1,7 @@
 ---
 title: font-family
 tags: css
-categories: html/css/js
+categories: 前端
 ---
 
 ### 默认字体

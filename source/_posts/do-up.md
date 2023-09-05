@@ -1,5 +1,5 @@
 ---
-title: 装修
+title: 装修与猫
 tags: 随笔
 categories: 日常
 ---
