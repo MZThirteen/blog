@@ -36,7 +36,17 @@ categories: 前端
 ## H5跳转H5、小程序、App
 
 ### 微信h5跳转外部h5
-待补充...
+
+在微信的环境中给出以下头部 
+```
+header("Content-type:application/pdf");
+header("Content-Disposition:attachment;filename='downloaded.pdf'");
+```
+此时微信会因为头部是下载处理，自动跳转到浏览器中打开这个链接
+
+!! 微信可能会封禁
+!! 已停止访问该网页
+!! 网页存在安全风险，被多人投诉，为维护绿色上网环境，已停止访问。
 
 ### 跳转小程序
 
