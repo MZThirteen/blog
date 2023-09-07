@@ -1,16 +1,8 @@
 ---
-title: nginx
+title: nginx-反向代理
 tags: nginx
 categories: nginx
 ---
-
-## 命令
-
-```
-start nginx 开启
-nginx -s stop 停止
-nginx -s reload 重新加载
-```
 
 ## location的匹配规则
 
