@@ -1,7 +1,10 @@
 ---
 title: 微信小程序、H5、App互相的跳转
 date: 2023-09-05 10:11:31
-tags: 前端
+tags:
+  - 微信小程序
+  - H5
+  - App
 categories: 前端
 ---
 

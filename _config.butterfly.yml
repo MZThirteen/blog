@@ -85,7 +85,21 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - /assets/cover/v2-1.webp
+    - /assets/cover/v2-2.webp
+    - /assets/cover/v2-3.webp
+    - /assets/cover/v2-4.webp
+    - /assets/cover/v2-5.webp
+    - /assets/cover/v2-6.webp
+    - /assets/cover/v2-7.webp
+    - /assets/cover/v2-8.webp
+    - /assets/cover/v2-9.webp
+    - /assets/cover/v2-10.webp
+    - /assets/cover/v2-11.webp
+    - /assets/cover/v2-12.webp
+    - /assets/cover/v2-13.webp
+    - /assets/cover/v2-14.webp
+    - /assets/cover/v2-15.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -227,7 +241,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-git
+      icon:
       text: 博客 Gitee
       link: https://gitee.com/muziless/blog
   card_announcement:

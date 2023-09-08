@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: hexo
 tags: hexo
 categories: 工具
 ---
