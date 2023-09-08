@@ -100,6 +100,12 @@ cover:
     - /assets/cover/v2-13.webp
     - /assets/cover/v2-14.webp
     - /assets/cover/v2-15.png
+    - /assets/cover/v3-1.jpeg
+    - /assets/cover/v3-2.jpeg
+    - /assets/cover/v3-3.jpeg
+    - /assets/cover/v3-4.jpeg
+    - /assets/cover/v3-5.jpeg
+    - /assets/cover/v3-6.jpeg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
