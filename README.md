@@ -10,7 +10,7 @@ yarn server
 // 打包
 sh ./build.sh
 // 新建文章
-hexo new [layout] <title>
+hexo new [layout] <title> -p <文件名>
 ```
 
 ### 目录说明
