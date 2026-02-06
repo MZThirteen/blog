@@ -15,6 +15,7 @@ nginx -s reload 重新加载
 nginx -s reopen 重新加载日志文件
 nginx -t 检测配置文件是否有错误
 nginx -v 版本
+nginx -c ./nginx.config 使用当前目录下的 nginx.config 文件启动
 ```
 
 ## 查找Nginx配置文件的位置
