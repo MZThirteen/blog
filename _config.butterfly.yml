@@ -99,13 +99,24 @@ cover:
     - /assets/cover/v2-12.webp
     - /assets/cover/v2-13.webp
     - /assets/cover/v2-14.webp
-    - /assets/cover/v2-15.png
-    - /assets/cover/v3-1.jpeg
-    - /assets/cover/v3-2.jpeg
-    - /assets/cover/v3-3.jpeg
-    - /assets/cover/v3-4.jpeg
-    - /assets/cover/v3-5.jpeg
-    - /assets/cover/v3-6.jpeg
+    - /assets/cover/v2-15.webp
+    - /assets/cover/v3-1.webp
+    - /assets/cover/v3-2.webp
+    - /assets/cover/v3-3.webp
+    - /assets/cover/v3-4.webp
+    - /assets/cover/v3-5.webp
+    - /assets/cover/v3-6.webp
+    - /assets/cover/v3-7.webp
+    - /assets/cover/v3-8.webp
+    - /assets/cover/v3-9.webp
+    - /assets/cover/v3-10.webp
+    - /assets/cover/v3-11.webp
+    - /assets/cover/v3-12.webp
+    - /assets/cover/v3-13.webp
+    - /assets/cover/v3-14.webp
+    - /assets/cover/v3-15.webp
+    - /assets/cover/v3-16.webp
+    - /assets/cover/v3-17.webp
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
